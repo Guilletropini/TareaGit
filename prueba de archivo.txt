@@ -1,6 +1,6 @@
 Guillermo
 
 GUILLERMO LOCAL COMMIT
-=======
+
 guillermo web
 guillermo push
